@@ -1,0 +1,14 @@
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\bin\Debug\netcoreapp2.2\Projeto1.deps.json
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\bin\Debug\netcoreapp2.2\Projeto1.runtimeconfig.json
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\bin\Debug\netcoreapp2.2\Projeto1.runtimeconfig.dev.json
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\bin\Debug\netcoreapp2.2\Projeto1.dll
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\bin\Debug\netcoreapp2.2\Projeto1.pdb
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\obj\Debug\netcoreapp2.2\Projeto1.csprojAssemblyReference.cache
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\obj\Debug\netcoreapp2.2\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\obj\Debug\netcoreapp2.2\Projeto1.RazorAssemblyInfo.cache
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\obj\Debug\netcoreapp2.2\Projeto1.RazorAssemblyInfo.cs
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\obj\Debug\netcoreapp2.2\Projeto1.AssemblyInfoInputs.cache
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\obj\Debug\netcoreapp2.2\Projeto1.AssemblyInfo.cs
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\obj\Debug\netcoreapp2.2\Projeto1.RazorTargetAssemblyInfo.cache
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\obj\Debug\netcoreapp2.2\Projeto1.dll
+C:\Users\João Cleber\Documents\Programação\Udemy AspNet\Projeto1\obj\Debug\netcoreapp2.2\Projeto1.pdb
